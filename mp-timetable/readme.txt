@@ -3,8 +3,8 @@ Contributors: MotoPress
 Donate link: https://motopress.com/
 Tags: schedule, timetable, calendar, event, events calendar, dates, event organizer, booking, appointment, upcoming events
 Requires at least: 4.6
-Tested up to: 6.6
-Stable tag: 2.4.14
+Tested up to: 6.7
+Stable tag: 2.4.15
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,6 +17,7 @@ MotoPress Timetable and Event Schedule is an all-around organizer plugin develop
 * [Plugin Demo](https://mpttdemo.getmotopress.com/)
 * [Documentation](https://motopress.com/documentation/wordpress/plugins/timetable/)
 * [Free Theme](https://gutenix.com/products/school/)
+* [Events Calendar](https://motopress.com/products/events-calendar/) – an extended version of the Timetable plugin: a [detailed comparison](https://motopress.com/events-calendar-vs-timetable/).
 
 ### Main features
 
@@ -64,13 +65,26 @@ The calendar events plugin provides Timetable block for Gutenberg. Timetable can
 
 Plugin provides Timetable widget for Elementor. Choose the layout and style for your events, show or hide the event description, customize the table look, choose the mobile behavior and more.
 
+### Events Calendar
+
+To address some of the limitations of the MotoPress Timetable plugin and simplify the event management process even further, we developed an absolutely fresh product, the next-gen WordPress events calendar plugin. While sharing some features and goals with the free Timetable plugin, the Events Calendar is designed for easier event creation in visual mode, with many more features:
+
+* Add and display recurring events easily.
+* Create hourly, multi-day, and all-day events.
+* Create multiple calendars.
+* Use month, week, day, and list views for events.
+* Create an event that starts on one day and ends on another.
+* Add multiple events to the same time slot.
+* Dedicated WordPress block to edit the look of your calendar.
+* Shortcode settings.
+
+[Compare Timetable vs Events Calendar](https://motopress.com/events-calendar-vs-timetable/)
+
 ### Appointment Booking
 
-Want to take automatic online appointment reservations through your website for events, classes, and any other type of services?
+Want to take automatic online appointment reservations through your website for events, classes, and any other type of services? [Hourly Appointment Booking](https://motopress.com/products/appointment-booking/?utm_source=wp_org_tt_page&utm_medium=text_link&utm_campaign=appointment_plugin) is our custom-crafted plugin optimized for easy appointment scheduling and quick online reservations.
 
-[Hourly Appointment Booking](https://motopress.com/products/appointment-booking/?utm_source=wp_org_tt_page&utm_medium=text_link&utm_campaign=appointment_plugin) is our custom-crafted plugin optimized for easy appointment scheduling and quick online reservations.
-
-Proud developers of Timetable plugin and the biggest set of blocks for Gutenberg - [Getwid WordPress Blocks](https://wordpress.org/plugins/getwid/).
+Developed by MotoPress – a trusted WordPress company with over a decade of expertise in crafting booking solutions, including our renowned [WordPress Booking Plugins](https://motopress.com/products/category/wordpress-booking-plugins/) and the extensive Gutenberg block collection – [Getwid WordPress Blocks](https://wordpress.org/plugins/getwid/).
 
 == Frequently Asked Questions ==
 
@@ -107,6 +121,9 @@ Plugin bundles the following third-party resources:
 
 
 == Changelog ==
+
+= 2.4.15, Jun 24 2025 =
+* Security – improved export process validation.
 
 = 2.4.14, Aug 5 2024 =
 * Minor bugfixes and improvements.
